@@ -4,9 +4,9 @@
 A website that offers fitness training services.
 
 ## Built With
-* HTML
-* CSS
 * blood sweat and tears
+* HTML.5
+* CSS.3
 
 ## Website
 https://lernantino.github.io/run-buddy/
